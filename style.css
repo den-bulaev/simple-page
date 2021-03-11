@@ -60,7 +60,7 @@ td {
 }
 
 .img__container {
-    max-width: 300px;
+    max-width: 250px;
     text-align: center;
     background-color:  rgb(250, 247, 211);
     border: solid;
@@ -72,6 +72,7 @@ td {
 
 img {
     border-radius: 30px;
+    max-width: 200px;
 }
 
 figcaption {
